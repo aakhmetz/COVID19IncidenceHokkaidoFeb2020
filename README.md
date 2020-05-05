@@ -1,5 +1,4 @@
-# Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots 
-## The example of Hokkaido, Japan during February–March 2020
+## Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: The example of Hokkaido, Japan during February–March 2020
 
 Supporting Materials for Andrei R. Akhmetzhanov, Kenji Mizumoto, Sung-mok Jung, Natalie M. Linton, Ryosuke
 Omori, Hiroshi Nishiura. Estimation of the actual incidence of coronavirus disease (COVID-19) in emergent hotspots: The example of Hokkaido, Japan during February–March 2020. medrxiv. ([doi:10.1101/2020.04.24.20077800](http://dx.doi.org/10.1101/2020.04.24.20077800))
