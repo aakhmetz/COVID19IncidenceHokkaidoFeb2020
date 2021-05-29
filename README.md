@@ -8,7 +8,7 @@ Omori, Hiroshi Nishiura. Estimation of the actual incidence of coronavirus disea
 **Abstract**
 Following the first report of coronavirus disease 2019 (COVID-19) in Sapporo City, Hokkaido Prefecture, Japan on 14 February 2020, a surge of cases was observed in Hokkaido during February and March. As of 6 March, 90 cases were diagnosed in Hokkaido. Unfortunately, many infected persons may not have been recognized as cases due to having mild or no symptoms. We therefore estimated the actual number of COVID-19 cases in (i) Hokkaido Prefecture and (ii) Sapporo City using data on cases diagnosed outside these areas. The estimated cumulative incidence in Hokkaido as of 27 February was 2297 cases (95% confidence interval [CI]: 382, 7091) based on data on travelers outbound from Hokkaido. The cumulative incidence in Sapporo City as of 28 February was estimated at 2233 cases (95% CI: 0, 4893) based on the count of confirmed cases within Hokkaido. Both approaches resulted in similar estimates, indicating higher incidence of infections in Hokkaido than were detected by the surveillance system. This quantification of the gap between detected and estimated cases can help inform public health response as it provides insight into the possible scope of undetected transmission.
 
-[**The main notebook of this study**](https://nbviewer.jupyter.org/github/aakhmetz/Covid19IncidenceHokkaidoFeb2020/blob/master/scripts/%20Main%20analysis%20%28python%2C%20PyMC3%29.ipynb) 
+### [**The main notebook of this study**](https://nbviewer.jupyter.org/github/aakhmetz/Covid19IncidenceHokkaidoFeb2020/blob/master/scripts/%20Main%20analysis%20%28python%2C%20PyMC3%29.ipynb) 
 
 <p align="center">
   <img src="manuscript/cover.png" title="Map">
