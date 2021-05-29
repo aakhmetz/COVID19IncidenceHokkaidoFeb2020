@@ -11,7 +11,7 @@ Following the first report of coronavirus disease 2019 (COVID-19) in Sapporo Cit
 [**The main notebook of this study**](https://nbviewer.jupyter.org/github/aakhmetz/Covid19IncidenceHokkaidoFeb2020/blob/master/scripts/%20Main%20analysis%20%28python%2C%20PyMC3%29.ipynb) 
 
 <p align="center">
-  <img src="manuscript/cover%20Hokkaido%20paper.png" title="Map">
+  <img src="manuscript/cover.png" title="Map">
 </p>
 
 ---------
