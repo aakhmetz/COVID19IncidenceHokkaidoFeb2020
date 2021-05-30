@@ -19,4 +19,4 @@ Following the first report of coronavirus disease 2019 (COVID-19) in Sapporo Cit
 
 The notebook was written in Python using the geopandas package for mapping and the PyMC3 package (version 3.8) for Bayesian inference.
 
-<font color="orange">**Words of caution**</font>: We note that the code is not supposed to work out of box, because the links used in the notebooks can be user-specific and some part of the dataset could not be openly shared (e.g. the linelist of COVID-19 that was used for reconstruction of the epicurve). Our main intent was to show the relevance of the methods used in our paper.
+<font color="orange">**Words of caution**</font>: We note that the code is not supposed to work out of box, because the links used in the notebooks can be user-specific and some part of the dataset could not be openly shared (e.g. the linelist of COVID-19 that was used for reconstruction of the epicurve). Our main intent was to show the relevance of the methods used in our paper. We are grateful for your understanding in advance.
